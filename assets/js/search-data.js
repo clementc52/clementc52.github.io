@@ -440,12 +440,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-",
-          title: '',
+            },},{id: "news-i-will-be-working-with-prof-ricardo-baptista-on-annealed-langevin-dynamics-and-its-applications-to-generative-and-diffusion-models-for-summer-2026",
+          title: 'I will be working with Prof. Ricardo Baptista on annealed Langevin dynamics and...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_1/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
