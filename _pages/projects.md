@@ -38,6 +38,6 @@ Reading course supervised by Prof. Ricardo Baptista, University of Toronto.
        color:black;
        font-size:0.95rem;
      ">
-    Course Paper
+    Course Paper (To Be Updated)
   </a>
 </div>
