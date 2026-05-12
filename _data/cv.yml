@@ -26,11 +26,8 @@ cv:
           - "Relevant Coursework: Real Analysis, Complex Variables, Theory of Statistics, Theory of Statistical Inference, Statistical Computation, Time Series, Regression Analysis, Group Theory, Sampling Theory, Nonlinear Optimization Theory"
 
     Research Interests:
-  - label: Research Areas
-    details: >
-      Probability theory, stochastic processes, generative modeling,
-      score-based diffusion methods, statistical inference,
-      and theoretical statistics.
+  - name: Statistical Inference and Theoretical Machine Learning
+    keywords: "Probability theory, stochastic processes, generative modeling, score-based diffusion methods, statistical inference, and theoretical statistics."
 
     Publications:
       - title: Preservation of Baire Spaces under Homeomorphisms
@@ -87,14 +84,6 @@ cv:
           - Objective Bayesian inference
           - Reference priors
           - Foundations of statistical inference
-
-    Teaching:
-      - name: Private Tutoring
-        position: Mathematics Tutor
-        start_date: 2023
-        end_date: present
-        highlights:
-          - Tutored grades 10-12 high school mathematics
 
     Skills:
       - name: Programming
