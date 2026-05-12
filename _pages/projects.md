@@ -42,6 +42,8 @@ Reading course supervised by [Prof. Ricardo Baptista](https://www.ricardobaptist
   </a>
 </div>
 
+<div style="height: 2rem;"></div>
+
 ### Causal Inference (Directed Reading Project)
 
 A directed reading project organized by the Department of Statistical Sciences at the University of Toronto. Supervised by PhD student [Arian Hashmzadeh](https://arian-hashemzadeh.github.io/).
@@ -61,6 +63,8 @@ A directed reading project organized by the Department of Statistical Sciences a
   </a>
 </div>
 
+<div style="height: 2rem;"></div>
+
 ### Course Project (STA422/2162): Are Improper Priors Objective in Statistical Inference?
 
 Final project for STA422 (Theory of Statistical Inference) taught by [Prof. Michael Evans](https://utstat.toronto.edu/mikevans/).
@@ -79,6 +83,8 @@ Final project for STA422 (Theory of Statistical Inference) taught by [Prof. Mich
     Paper
   </a>
 </div>
+
+<div style="height: 2rem;"></div>
 
 
 # 2025
@@ -115,6 +121,8 @@ A directed reading project organized by the Mathematics Department at the Univer
     Paper
   </a>
 </div>
+
+<div style="height: 2rem;"></div>
 
 
 ### Expository Paper: Analysis of Robustness of Linear Estimators via $\ell^p$ and Dual Norm Lipschitz Bounds
