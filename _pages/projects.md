@@ -1,65 +1,66 @@
 ---
 layout: page
-title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+title: projects
 nav: true
 nav_order: 3
-display_categories: [work, fun]
-horizontal: false
+description: Current and past research projects.
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
+<div class="publications">
+
+<h2>2026</h2>
+
+<div class="bibliography">
+
+<div class="row">
+  <div class="col-sm-2 abbr">
+    <abbr class="badge">ONGOING</abbr>
+  </div>
+
+  <div id="langevin-project" class="col-sm-8">
+    <div class="title">Annealed Langevin Dynamics and Diffusion Models</div>
+
+    <div class="author">
+      Clement Chu
+    </div>
+
+    <div class="periodical">
+      Reading course supervised by Prof. Ricardo Baptista, University of Toronto.
+    </div>
+
+    <div class="links">
+      <a href="#" class="btn btn-sm z-depth-0" role="button">Notes</a>
     </div>
   </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
+</div>
+
+<br>
+
+<div class="row">
+  <div class="col-sm-2 abbr">
+    <abbr class="badge">BOOK</abbr>
   </div>
-  {% endif %}
-  {% endfor %}
 
-{% else %}
+  <div id="stats-book" class="col-sm-8">
+    <div class="title">A Note in Probability and Statistics</div>
 
-<!-- Display projects without categories -->
+    <div class="author">
+      Clement Chu
+    </div>
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+    <div class="periodical">
+      Ongoing textbook project in introductory probability and statistics, aimed for high school students.
+    </div>
 
-  <!-- Generate cards for each project -->
-
-{% if page.horizontal %}
-
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
+    <div class="links">
+      <a href="#" class="btn btn-sm z-depth-0" role="button">Preview</a>
     </div>
   </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
+</div>
+
+</div>
+</div>
   {% endif %}
 {% endif %}
 </div>
