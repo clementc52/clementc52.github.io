@@ -14,7 +14,7 @@ nav_order: 3
 Reading course supervised by Prof. Ricardo Baptista, University of Toronto.
 
 <div style="margin-top: 1rem;">
-  <a href="YOUR_GOOGLE_DRIVE_LINK"
+  <a href="https://drive.google.com/drive/folders/1cDmA2rgt4tPCxzfzXWhaAeSTy2DUbF8V?usp=sharing"
      style="
        display:inline-block;
        padding:0.45rem 1rem;
