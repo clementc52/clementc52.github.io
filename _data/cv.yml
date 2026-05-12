@@ -26,8 +26,14 @@ cv:
           - "Relevant Coursework: Real Analysis, Complex Variables, Theory of Statistics, Theory of Statistical Inference, Statistical Computation, Time Series, Regression Analysis, Group Theory, Sampling Theory, Nonlinear Optimization Theory"
 
     Research Interests:
-  - name: Statistical Inference and Theoretical Machine Learning
-    keywords: "Probability theory, stochastic processes, generative modeling, score-based diffusion methods, statistical inference, and theoretical statistics."
+      - name: Statistical Inference and Theoretical Machine Learning
+        keywords:
+          - Probability theory
+          - Stochastic processes
+          - Generative modeling
+          - Score-based diffusion methods
+          - Statistical inference
+          - Theoretical statistics
 
     Publications:
       - title: Preservation of Baire Spaces under Homeomorphisms
@@ -117,5 +123,3 @@ cv:
 
       - name: Japanese
         summary: Intermediate
-
-
