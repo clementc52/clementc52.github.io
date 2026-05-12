@@ -11,7 +11,7 @@ nav_order: 3
 
 ### Annealed Langevin Dynamics and Diffusion Models
 
-Reading course supervised by Prof. Ricardo Baptista, University of Toronto.
+Reading course supervised by [Prof. Ricardo Baptista](https://www.ricardobaptista.com/), University of Toronto.
 
 <div style="margin-top: 1rem;">
   <a href="https://drive.google.com/drive/folders/1cDmA2rgt4tPCxzfzXWhaAeSTy2DUbF8V?usp=sharing"
@@ -44,7 +44,7 @@ Reading course supervised by Prof. Ricardo Baptista, University of Toronto.
 
 ### Causal Inference (Directed Reading Project)
 
-A directed reading project organized by the Department of Statistical Sciences at the University of Toronto. Supervised by PhD student Arian Hashmzadeh.
+A directed reading project organized by the Department of Statistical Sciences at the University of Toronto. Supervised by PhD student [Arian Hashmzadeh](https://arian-hashemzadeh.github.io/).
 
 <div style="margin-top: 1rem;">
   <a href="YOUR_NOTES_LINK"
@@ -66,7 +66,7 @@ A directed reading project organized by the Department of Statistical Sciences a
 
 ### Spectral Graph Theory (Directed Reading Project)
 
-A directed reading project organized by the Mathematics Department at the University of Toronto. Explored topics such as: Perron-Frobenius theorem, $(n,d,c)$-expanders, expander-mixing lemma, pseudorandom graphs, and Laplacian spectrum with applications to graph drawings under the supervision of PhD student Narmada Varadarajan.
+A directed reading project organized by the Mathematics Department at the University of Toronto. Explored topics such as: Perron-Frobenius theorem, $(n,d,c)$-expanders, expander-mixing lemma, pseudorandom graphs, and Laplacian spectrum with applications to graph drawings under the supervision of PhD student [Narmada Varadarajan](https://narmada.info/).
 
 <div style="margin-top: 1rem;">
   <a href="YOUR_SLIDES_LINK"
@@ -100,7 +100,7 @@ A directed reading project organized by the Mathematics Department at the Univer
 
 ### Expository Paper: Analysis of Robustness of Linear Estimators via \(l^p\) and Dual Norm Lipschitz Bounds
 
-Informally guided by PhD student Jason (Sin Hang) Yeung.
+Informally guided by PhD student [Jason (Sin Hang) Yeung](https://www.mathematics.utoronto.ca/people/directories/graduate-students/sin-hang-jason-yeung).
 
 <div style="margin-top: 1rem;">
   <a href="YOUR_PAPER_LINK"
@@ -120,7 +120,7 @@ Informally guided by PhD student Jason (Sin Hang) Yeung.
 
 ### Course Project (STA422/2162): Are Improper Priors Objective in Statistical Inference?
 
-Final project for STA422 (Theory of Statistical Inference) taught by Prof. Michael Evans.
+Final project for STA422 (Theory of Statistical Inference) taught by [Prof. Michael Evans](https://utstat.toronto.edu/mikevans/).
 
 <div style="margin-top: 1rem;">
   <a href="YOUR_PAPER_LINK"
