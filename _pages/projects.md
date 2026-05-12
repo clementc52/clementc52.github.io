@@ -117,7 +117,7 @@ A directed reading project organized by the Mathematics Department at the Univer
 </div>
 
 
-### Expository Paper: Analysis of Robustness of Linear Estimators via \(l^p\) and Dual Norm Lipschitz Bounds
+### Expository Paper: Analysis of Robustness of Linear Estimators via $\ell^p$ and Dual Norm Lipschitz Bounds
 
 Informally guided by PhD student [Jason (Sin Hang) Yeung](https://www.mathematics.utoronto.ca/people/directories/graduate-students/sin-hang-jason-yeung).
 
