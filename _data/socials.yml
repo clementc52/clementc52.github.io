@@ -3,13 +3,5 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
 email: clement.chu@mail.utoronto.ca # your email address
-
-custom_social_github:
-  logo: /assets/img/25231.png
-  title: GitHub
-  url: https://github.com/clementc52
-
-custom_social_linkedin:
-  logo: /assets/img/linkedin.png
-  title: LinkedIn
-  url: https://www.linkedin.com/in/clement-chu-073679298/
+github_username: clementc52
+linkedin_username: clement-chu-073679298
