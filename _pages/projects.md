@@ -13,4 +13,31 @@ nav_order: 3
 
 Reading course supervised by Prof. Ricardo Baptista, University of Toronto.
 
-<a href="/assets/pdf/notes.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+<div style="margin-top: 1rem;">
+  <a href="YOUR_GOOGLE_DRIVE_LINK"
+     style="
+       display:inline-block;
+       padding:0.45rem 1rem;
+       border:1px solid #cfcfcf;
+       border-radius:6px;
+       text-decoration:none;
+       color:black;
+       margin-right:0.5rem;
+       font-size:0.95rem;
+     ">
+    Meeting Notes
+  </a>
+
+  <a href="/assets/pdf/course-paper.pdf"
+     style="
+       display:inline-block;
+       padding:0.45rem 1rem;
+       border:1px solid #cfcfcf;
+       border-radius:6px;
+       text-decoration:none;
+       color:black;
+       font-size:0.95rem;
+     ">
+    Course Paper
+  </a>
+</div>
