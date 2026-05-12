@@ -48,20 +48,6 @@ Reading course supervised by [Prof. Ricardo Baptista](https://www.ricardobaptist
 
 A directed reading project organized by the Department of Statistical Sciences at the University of Toronto. Supervised by PhD student [Arian Hashmzadeh](https://arian-hashemzadeh.github.io/).
 
-<div style="margin-top: 1rem;">
-  <a href="YOUR_NOTES_LINK"
-     style="
-       display:inline-block;
-       padding:0.45rem 1rem;
-       border:1px solid #cfcfcf;
-       border-radius:6px;
-       text-decoration:none;
-       color:black;
-       font-size:0.95rem;
-     ">
-    Notes
-  </a>
-</div>
 
 <div style="height: 2rem;"></div>
 
@@ -70,7 +56,7 @@ A directed reading project organized by the Department of Statistical Sciences a
 Final project for STA422 (Theory of Statistical Inference) taught by [Prof. Michael Evans](https://utstat.toronto.edu/mikevans/).
 
 <div style="margin-top: 1rem;">
-  <a href="YOUR_PAPER_LINK"
+  <a href="https://drive.google.com/file/d/1ev0uMBKdLscWgDWZBoyVxHiV5bSPaEHL/view?usp=sharing"
      style="
        display:inline-block;
        padding:0.45rem 1rem;
@@ -94,7 +80,7 @@ Final project for STA422 (Theory of Statistical Inference) taught by [Prof. Mich
 A directed reading project organized by the Mathematics Department at the University of Toronto. Explored topics such as: Perron-Frobenius theorem, $(n,d,c)$-expanders, expander-mixing lemma, pseudorandom graphs, and Laplacian spectrum with applications to graph drawings under the supervision of PhD student [Narmada Varadarajan](https://narmada.info/).
 
 <div style="margin-top: 1rem;">
-  <a href="YOUR_SLIDES_LINK"
+  <a href="https://drive.google.com/file/d/1flZP583rcg04mjhFm4oKsCfmoKsZHXZu/view?usp=sharing"
      style="
        display:inline-block;
        padding:0.45rem 1rem;
@@ -130,7 +116,7 @@ A directed reading project organized by the Mathematics Department at the Univer
 Informally guided by PhD student [Jason (Sin Hang) Yeung](https://www.mathematics.utoronto.ca/people/directories/graduate-students/sin-hang-jason-yeung).
 
 <div style="margin-top: 1rem;">
-  <a href="YOUR_PAPER_LINK"
+  <a href="https://drive.google.com/file/d/1FFVx4UH6fmWuNTs7gYMJi9JKHiMvXBma/view?usp=sharing"
      style="
        display:inline-block;
        padding:0.45rem 1rem;
