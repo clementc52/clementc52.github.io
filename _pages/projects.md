@@ -93,19 +93,7 @@ A directed reading project organized by the Mathematics Department at the Univer
      ">
     Slides
   </a>
-
-  <a href="YOUR_PAPER_LINK"
-     style="
-       display:inline-block;
-       padding:0.45rem 1rem;
-       border:1px solid #cfcfcf;
-       border-radius:6px;
-       text-decoration:none;
-       color:black;
-       font-size:0.95rem;
-     ">
-    Paper
-  </a>
+  
 </div>
 
 <div style="height: 2rem;"></div>
