@@ -2,7 +2,7 @@ cv:
   name: Clement (Kai Hei) Chu
   label: Mathematics and Statistics Student
   email: clement[dot]chu[at]mail[dot]utoronto[dot]ca
-  website: https://clement525.github.io/clement-chu.github.io/
+  website: https://clementc52.github.io/
   location: Toronto, Canada
 
   summary: >
@@ -26,11 +26,11 @@ cv:
           - "Relevant Coursework: Real Analysis, Complex Variables, Theory of Statistics, Theory of Statistical Inference, Statistical Computation, Time Series, Regression Analysis, Group Theory, Sampling Theory, Nonlinear Optimization Theory"
 
     Research Interests:
-      - name: Research Areas
-        summary: >
-          Probability theory, stochastic processes, generative modeling,
-          score-based diffusion methods, statistical inference,
-          and theoretical statistics.
+  - label: Research Areas
+    details: >
+      Probability theory, stochastic processes, generative modeling,
+      score-based diffusion methods, statistical inference,
+      and theoretical statistics.
 
     Publications:
       - title: Preservation of Baire Spaces under Homeomorphisms
