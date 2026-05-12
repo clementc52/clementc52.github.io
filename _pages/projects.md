@@ -61,6 +61,25 @@ A directed reading project organized by the Department of Statistical Sciences a
   </a>
 </div>
 
+### Course Project (STA422/2162): Are Improper Priors Objective in Statistical Inference?
+
+Final project for STA422 (Theory of Statistical Inference) taught by [Prof. Michael Evans](https://utstat.toronto.edu/mikevans/).
+
+<div style="margin-top: 1rem;">
+  <a href="YOUR_PAPER_LINK"
+     style="
+       display:inline-block;
+       padding:0.45rem 1rem;
+       border:1px solid #cfcfcf;
+       border-radius:6px;
+       text-decoration:none;
+       color:black;
+       font-size:0.95rem;
+     ">
+    Paper
+  </a>
+</div>
+
 
 # 2025
 
@@ -118,21 +137,3 @@ Informally guided by PhD student [Jason (Sin Hang) Yeung](https://www.mathematic
 </div>
 
 
-### Course Project (STA422/2162): Are Improper Priors Objective in Statistical Inference?
-
-Final project for STA422 (Theory of Statistical Inference) taught by [Prof. Michael Evans](https://utstat.toronto.edu/mikevans/).
-
-<div style="margin-top: 1rem;">
-  <a href="YOUR_PAPER_LINK"
-     style="
-       display:inline-block;
-       padding:0.45rem 1rem;
-       border:1px solid #cfcfcf;
-       border-radius:6px;
-       text-decoration:none;
-       color:black;
-       font-size:0.95rem;
-     ">
-    Paper
-  </a>
-</div>
