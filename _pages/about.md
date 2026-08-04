@@ -6,7 +6,7 @@ subtitle: <a href='#'>University of Toronto</a>. Fourth Year BSc. in Mathematics
 
 profile:
   align: right
-  image: clement_image.jpg
+  image: clement_image_2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>clement[dot]chu[at]mail[dot]utoronto[dot]ca</p>
