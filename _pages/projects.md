@@ -14,21 +14,8 @@ nav_order: 3
 Reading course supervised by [Prof. Ricardo Baptista](https://www.ricardobaptista.com/), University of Toronto.
 
 <div style="margin-top: 1rem;">
-  <a href="https://drive.google.com/drive/folders/1cDmA2rgt4tPCxzfzXWhaAeSTy2DUbF8V?usp=sharing"
-     style="
-       display:inline-block;
-       padding:0.45rem 1rem;
-       border:1px solid #cfcfcf;
-       border-radius:6px;
-       text-decoration:none;
-       color:black;
-       margin-right:0.5rem;
-       font-size:0.95rem;
-     ">
-    Meeting Notes
-  </a>
 
-  <a href="/assets/pdf/course-paper.pdf"
+  <a href="https://drive.google.com/file/d/1QR3_uibPP7o1bLFwlGPnrsGvg72CVkzy/view?usp=sharing"
      style="
        display:inline-block;
        padding:0.45rem 1rem;
@@ -38,7 +25,7 @@ Reading course supervised by [Prof. Ricardo Baptista](https://www.ricardobaptist
        color:black;
        font-size:0.95rem;
      ">
-    Course Paper (To Be Updated)
+    Course Paper
   </a>
 </div>
 
