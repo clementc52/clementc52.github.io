@@ -1,8 +1,7 @@
 ---
-layout: archive
-title: "teaching"
+layout: page
+title: teaching
 permalink: /teaching/
-author_profile: true
 nav: true
 nav_order: 5
 ---
